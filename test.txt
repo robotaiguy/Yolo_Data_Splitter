@@ -1,0 +1,6 @@
+/home/skynet/darknet/data/2/2-012.jpg
+/home/skynet/darknet/data/2/2-022.jpg
+/home/skynet/darknet/data/2/2-026.jpg
+/home/skynet/darknet/data/1/1-022.jpg
+/home/skynet/darknet/data/1/1-004.jpg
+/home/skynet/darknet/data/1/1-016.jpg
