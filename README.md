@@ -5,5 +5,15 @@ YOLO (You Only Look Once) neural network based object detection algorithm (origi
 
 Repository includes split.py script as well as example train.txt and test.txt files.
 
-Current version is a simple script, where user has to edit the split.py file for percentage amount and dataset path. 
+Current version is a simple script, where user must copy split.py file into /darknet root directory and run from there. User will be prompted for percentage amount between 10 and 30.
+
 Planned update will have GUI for user to select percentage and image directory.
+
+REQUIRES: 
+- Yolo Darknet must be installed, with custom dataset within /darknet/data directory (subdirectories are allowed and will be scanned recursively)
+- Python3 must be installed
+
+INSTRUCTIONS:
+1) copy split.py into darknet root directory
+2) open terminal window within darknet root directory
+3) type command: python3 split.py
